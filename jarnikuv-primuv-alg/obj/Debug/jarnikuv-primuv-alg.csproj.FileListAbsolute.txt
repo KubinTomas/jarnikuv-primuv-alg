@@ -1,0 +1,7 @@
+C:\Users\Tommy\source\repos\jarnikuv-primuv-alg\jarnikuv-primuv-alg\bin\Debug\jarnikuv-primuv-alg.exe.config
+C:\Users\Tommy\source\repos\jarnikuv-primuv-alg\jarnikuv-primuv-alg\bin\Debug\jarnikuv-primuv-alg.exe
+C:\Users\Tommy\source\repos\jarnikuv-primuv-alg\jarnikuv-primuv-alg\bin\Debug\jarnikuv-primuv-alg.pdb
+C:\Users\Tommy\source\repos\jarnikuv-primuv-alg\jarnikuv-primuv-alg\obj\Debug\jarnikuv-primuv-alg.csproj.AssemblyReference.cache
+C:\Users\Tommy\source\repos\jarnikuv-primuv-alg\jarnikuv-primuv-alg\obj\Debug\jarnikuv-primuv-alg.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\source\repos\jarnikuv-primuv-alg\jarnikuv-primuv-alg\obj\Debug\jarnikuv-primuv-alg.exe
+C:\Users\Tommy\source\repos\jarnikuv-primuv-alg\jarnikuv-primuv-alg\obj\Debug\jarnikuv-primuv-alg.pdb
