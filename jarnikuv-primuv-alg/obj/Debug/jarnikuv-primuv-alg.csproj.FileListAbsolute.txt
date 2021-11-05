@@ -5,3 +5,9 @@ C:\Users\Tommy\source\repos\jarnikuv-primuv-alg\jarnikuv-primuv-alg\obj\Debug\ja
 C:\Users\Tommy\source\repos\jarnikuv-primuv-alg\jarnikuv-primuv-alg\obj\Debug\jarnikuv-primuv-alg.csproj.CoreCompileInputs.cache
 C:\Users\Tommy\source\repos\jarnikuv-primuv-alg\jarnikuv-primuv-alg\obj\Debug\jarnikuv-primuv-alg.exe
 C:\Users\Tommy\source\repos\jarnikuv-primuv-alg\jarnikuv-primuv-alg\obj\Debug\jarnikuv-primuv-alg.pdb
+C:\Users\Kubin\Desktop\Projects\UJEP\jarnikuv-primuv-alg\jarnikuv-primuv-alg\bin\Debug\jarnikuv-primuv-alg.exe.config
+C:\Users\Kubin\Desktop\Projects\UJEP\jarnikuv-primuv-alg\jarnikuv-primuv-alg\bin\Debug\jarnikuv-primuv-alg.exe
+C:\Users\Kubin\Desktop\Projects\UJEP\jarnikuv-primuv-alg\jarnikuv-primuv-alg\bin\Debug\jarnikuv-primuv-alg.pdb
+C:\Users\Kubin\Desktop\Projects\UJEP\jarnikuv-primuv-alg\jarnikuv-primuv-alg\obj\Debug\jarnikuv-primuv-alg.csprojAssemblyReference.cache
+C:\Users\Kubin\Desktop\Projects\UJEP\jarnikuv-primuv-alg\jarnikuv-primuv-alg\obj\Debug\jarnikuv-primuv-alg.exe
+C:\Users\Kubin\Desktop\Projects\UJEP\jarnikuv-primuv-alg\jarnikuv-primuv-alg\obj\Debug\jarnikuv-primuv-alg.pdb

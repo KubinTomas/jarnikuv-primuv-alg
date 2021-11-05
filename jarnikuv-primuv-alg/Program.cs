@@ -10,7 +10,7 @@ namespace jarnikuv_primuv_alg
     {
         static void Main(string[] args)
         {
-            var graph = GraphSeed.GetSeed01();
+            var graph = GraphSeed.GetSeed02();
 
             var skeletonAlg = new JarnikuvPrimuvAlgorithm();
 
